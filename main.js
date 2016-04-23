@@ -68,7 +68,7 @@ var deleteTask = function (argument) {
 		var ul = listItem.parentNode;
 
 		//Remove
-		ul.removeChild(listitem);
+		ul.removeChild(listItem);
 }
 
 
